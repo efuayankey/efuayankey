@@ -2,9 +2,9 @@
 
 I’m a Computer Science & Engineering student at Lehigh University with a focus on machine learning, quantitative modeling, and systems that are designed to work — and make sense.
 
-I’ve led dev teams, contributed to research, and built tools people still use — across wellness, education, and decision-making. I care about clean systems, clear thinking, and building tech that feels intuitive and human.
+I’ve led dev teams, contributed to research, and built tools people still use across wellness, education, and decision-making. I care about clean systems, clear thinking, and building tech that feels intuitive and human.
 
-Right now, I’m especially interested in work that sits at the intersection of deep technology and measurable impact — including quant research, scalable software engineering, and applied AI.
+Right now, I’m especially interested in work that sits at the intersection of deep technology and measurable impact, including quant research, scalable software engineering, and applied AI.
 
 ---
 
