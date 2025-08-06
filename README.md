@@ -1,4 +1,4 @@
-## Hey there, Efua here!
+## Heyyy there, Efua here!
 
 I’m a Computer Science & Engineering student at Lehigh University with a focus on machine learning, quantitative modeling, and systems that are designed to work (and make sense).
 
