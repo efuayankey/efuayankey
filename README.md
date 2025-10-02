@@ -29,4 +29,4 @@ Right now, I’m especially interested in work that sits at the intersection of 
 
 ### Reach Me
 
-efuayankey123@gmail.com . [LinkedIn](https://linkedin.com/in/efuayankey) · [GitHub](https://github.com/efuayankey) · [Instagram](https://instagram.com/efua.yankey) 
+efuayankey123@gmail.com . [LinkedIn](https://linkedin.com/in/efuayankey) · [GitHub](https://github.com/efuayankey) · [Instagram](https://instagram.com/efua.yankey) · [Website](https://efua-portfolio.vercel.app)
