@@ -1,10 +1,15 @@
-## Hey there, Efua here!
+## Hey, I’m Efua!
 
-I’m a Computer Science & Engineering student at Lehigh University with a focus on machine learning, quantitative modeling, and systems that are designed to work (and make sense).
+I’m a Computer Science & Engineering student at Lehigh, focused on building software and AI systems that make decisions responsibly and work in the real world.
 
-I’ve led dev teams, contributed to research, and built tools people still use across wellness, education, and decision-making. I care about clean systems, clear thinking, and building tech that feels intuitive and human.
+I’ve worked across applied AI, machine learning, and software engineering, leading projects end-to-end: from framing the problem and system design to implementation, evaluation, and iteration based on real user and system feedback.
 
-Right now, I’m especially interested in work that sits at the intersection of deep technology and measurable impact, including scalable software engineering, quant research, and applied AI.
+I care about clean systems, clear thinking, and building tech that’s useful, not just impressive :) 
+A lot of my work sits at the intersection of AI, human context, and product-level decision-making.
+
+I’m also big on collaboration and representation. To me, leadership means owning decisions, building with others, and making space for perspectives that are often overlooked.
+
+Right now, I’m looking for opportunities where I can keep growing as a software engineer or applied ML/AI engineer, while working on systems that have real impact.
 
 ---
 
